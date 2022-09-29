@@ -24,5 +24,5 @@ else (time<6)
 {
 cout<<"bonus=0.05*salary"<<endl;
 }
-return 0
+return 0;
 }    
